@@ -19,3 +19,5 @@ README-template.md
 style-guide.md
 design/
 node_modules/
+
+.vscode/
